@@ -1,1 +1,34 @@
-<mxfile host="www.draw.io" modified="2020-02-18T16:39:57.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="n7SFoQp07KnVUtIj-TRh" version="12.7.1" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">5VjbcpswEP0aHtsxYJz00SZJ22ky7cRt01cBa1AiJEYSwfHXdwXCNhfbbS59qYfJoN2V9nqO5Th+mK8/SlJkNyIB5niTZO34F47nuVPPc8wzSZ4ayVkQNIJU0sQa7QRLugErnFhpSRNQHUMtBNO06ApjwTnEuiMjUoqqa7YSrOu1ICkMBMuYsKH0jiY6s1J39mGn+AQ0zazrc2/WKCISP6RSlNz6czx/VX8adU7as2yiKiOJqPZE/qXjh1II3bzl6xCYqW1btmbf1QHtNm4JXP/JBqI2vzb3X75fnl8JeftpXf64u3k3tck8ElbagsxXKTDAXXi4pDymBdgE9FNbNFXRnBGOq8VKcL20mgmu44yy5Jo8idJEpTRWqV0tMiHpBu0JQ5WLAlRLbWcC64qnUcZCwYREARe1g92mpTnMupGgcNu3Nnu3J7oh647hNVG6DVAwRgpFozpkszEnMqV8IbQWuTWyVQGpYX2w3u62i4gOEDlo+YQmdsPMt423wHDbQaj2xmxqZdnehHmBbQqxo51uz961F19sh/+i24E76PZn/BM6oefMMRL067sm/aXG0yhPx3S3RFPBDX5GlJ/zgtEYLRDSI+qfQsgIgCXAx9QhK5UGOaaaSxwsjQRQlpIRMhrZvk2CJaOjTr4LKIhSmJ1KIaKQjCYJzCSBtphOpg+UAgdSl8p0Cn0Shr6pPmqnj583X9XFsdqdvDGcM/1Ow4MadfFNUsRJE8BEwiNV5q0HWxxmA8PKVGlZkNiIK6R1g0RcGr/+xRmutAS4Ek0kDSBIpAQrNWCNLV7/GCZHiGcIHguWlmRPYqUF2etj5WzIjMV2uEE+0vg/5MVM522Mr0CR59NnUuTW8PXbfj5o+wJUnEl6/9hDLTOti5CtZqlueGUM2z2ryzUSHPavrlxF7zfHzQ8Q5tB1n9LGka+0FA/QG6SR2UIuSzkuGazMNtNkHHw2t2ItDGUIFK9YfaXJaGIixKkSSHUk2k59ISjXdY+CBT4Yezh5HzhB/a0TLNzdGh9jLnUoOIZJaD1CgPNZgdLd0euS1fNJqMH4i0now/SNhnE2/L5eEEXV/3sve13+mT6bf4K34p+Zd+CK5s1IblDHI1XU2fdJYP/OdtK4z2knN3RufQNt79p38rQerZ20H72zndz1lScgI1FWdZL/gBEtL13XNhfTneTWjs7039Om4YE2F7wsTurPM5B0hKBeTKCu9/cMisvdb+dat/cPCv/yNw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-18T16:51:47.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="6MpKZsPCgroA6wzwwLJ4" version="12.7.1" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aszXzjKTE8ForRHxuUWM-46" value="Afgeleid principe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="120" width="140" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="aszXzjKTE8ForRHxuUWM-51" value="ID, &#xa;Stelling, &#xa;Rationale, &#xa;Implicaties, &#xa;Voorbeelden, &#xa;Cluster, &#xa;Architectuurlaag, &#xa;Architectuurdomein, &#xa;Toepassingsgebied, &#xa;RelatieToelichting, &#xa;Status actualiteit, &#xa;Status toelichting, &#xa;Afbeelding,&#xa; Alt-tekst, &#xa;Prioriteit revisit" style="text;whiteSpace=wrap;spacing=7;treeFolding=0;absoluteArcSize=0;" parent="aszXzjKTE8ForRHxuUWM-46" vertex="1">
+          <mxGeometry y="26" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aszXzjKTE8ForRHxuUWM-57" value="Applicatieservice" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="120" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aszXzjKTE8ForRHxuUWM-58" value="Beschrijving, &lt;br&gt;Toelichting, &lt;br&gt;Externe verwijzing, &lt;br&gt;Voorbeelden, &lt;br&gt;Toepassingsgebied" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;spacing=7;" parent="aszXzjKTE8ForRHxuUWM-57" vertex="1">
+          <mxGeometry y="26" width="140" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="aszXzjKTE8ForRHxuUWM-61" value="Basisprincipe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aszXzjKTE8ForRHxuUWM-62" value="ID,&amp;nbsp;&lt;br&gt;Stelling,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Rationale,&lt;br&gt;Implicaties,&amp;nbsp;&lt;br&gt;Voorbeelden,&amp;nbsp;&lt;br&gt;Toepassingsgebied,&amp;nbsp;&lt;br&gt;Onderbouwing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;html=1;" parent="aszXzjKTE8ForRHxuUWM-61" vertex="1">
+          <mxGeometry y="26" width="140" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="4kYaTvi9r67Zi_UZiXDF-1" value="Begrip" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4kYaTvi9r67Zi_UZiXDF-2" value="Gebruik hoofdletters,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Toelichting,&amp;nbsp;&lt;br&gt;Vastgesteld in" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="4kYaTvi9r67Zi_UZiXDF-1">
+          <mxGeometry y="26" width="140" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
