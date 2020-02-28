@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-28T12:27:22.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UY-7rrZ2L00PxjCuvlfI" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-02-28T13:07:40.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9KvIKHYG3LlDCW3zFOtg" version="12.7.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,6 +73,132 @@
         </mxCell>
         <mxCell id="APrtU9W0fPYDer8AcuMq-36" value="ID, &#xa;Versieaanduiding, &#xa;Status actualiteit, &#xa;Beschrijving, &#xa;Toelichting, &#xa;Werkingsgebied, &#xa;Externe verwijzing, &#xa;Afbeelding, &#xa;Bijlagen, &#xa;Documentatie, &#xa;Publicatiedatum, &#xa;Organisatie, &#xa;Contactpersoon, &#xa;Contactgegevens, &#xa;Laag binnen vijflaagsmodel, &#xa;Alt-tekst" style="text;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-32">
           <mxGeometry y="26" width="160" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-40" value="Doel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-41" value="ID,&amp;nbsp;&lt;br&gt;Stelling,&amp;nbsp;&lt;br&gt;Rationale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-40">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-44" value="Domein" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-45" value="Beschrijving,&amp;nbsp;&lt;br&gt;Afbeelding,&amp;nbsp;&lt;br&gt;Organisatie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-44">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-48" value="Drijfveer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-49" value="ID,&amp;nbsp;&lt;br&gt;Stelling,&amp;nbsp;&lt;br&gt;Rationale,&amp;nbsp;&lt;br&gt;Implicaties,&amp;nbsp;&lt;br&gt;Externe verwijzing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-48">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-52" value="EU Programma" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-53" value="Afbeelding,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Externe verwijzing,&lt;br&gt;Looptijd,&amp;nbsp;&lt;br&gt;Budget" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-52">
+          <mxGeometry y="26" width="140" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-56" value="Gegevenswoordenboek" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="667" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-57" value="Werkingsgebied,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Organisatie,&amp;nbsp;&lt;br&gt;Externe verwijzing,&amp;nbsp;&lt;br&gt;Documentatie,&amp;nbsp;&lt;br&gt;Contactpersoon,&amp;nbsp;&lt;br&gt;Contactgegevens,&amp;nbsp;&lt;br&gt;Cluster,&amp;nbsp;&lt;br&gt;Laag binnen vijflaagsmodel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-56">
+          <mxGeometry y="26" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-60" value="Implementatierichtlijn" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-61" value="ID,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Eigenaar-pagina,&amp;nbsp;&lt;br&gt;Heeft bron,&amp;nbsp;&lt;br&gt;Specificatie bron,&amp;nbsp;&lt;br&gt;Laag binnen vijflaagsmodel,&amp;nbsp;&lt;br&gt;Cluster" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-60">
+          <mxGeometry y="26" width="140" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-64" value="Instrument" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="910" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-65" value="ID, &lt;br&gt;Externe verwijzing, &lt;br&gt;Beschrijving, &lt;br&gt;Voorbeelden, &lt;br&gt;Toepassingsgebied" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-64">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-69" value="Issue" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="870" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-70" value="ID,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;indiener,&amp;nbsp;&lt;br&gt;probleemeigenaar,&amp;nbsp;&lt;br&gt;classificatie,&amp;nbsp;&lt;br&gt;issuetype,&amp;nbsp;&lt;br&gt;status,&amp;nbsp;&lt;br&gt;opvolgdatum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-69">
+          <mxGeometry y="26" width="140" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-73" value="Kennisgroep" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="900" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-74" value="Beschrijving,&amp;nbsp;&lt;br&gt;Doel,&amp;nbsp;&lt;br&gt;Doelgroep,&amp;nbsp;&lt;br&gt;ID,&amp;nbsp;&lt;br&gt;externe verwijzing,&amp;nbsp;&lt;br&gt;toelichting,&amp;nbsp;&lt;br&gt;Organisatie,&amp;nbsp;&lt;br&gt;Contactpersoon,&amp;nbsp;&lt;br&gt;Contactgegevens" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-73">
+          <mxGeometry y="26" width="140" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-77" value="Organisatie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="790" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-78" value="Beschrijving,&amp;nbsp;&lt;br&gt;Toelichting,&amp;nbsp;&lt;br&gt;Externe verwijzing,&amp;nbsp;&lt;br&gt;Laag binnen vijflaagsmodel,&amp;nbsp;&lt;br&gt;EU Actor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-77">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-81" value="Probleem" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="920" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-82" value="ID,&amp;nbsp;&lt;br&gt;Beschrijving,&lt;br&gt;Eigenaar-pagina,&amp;nbsp;&lt;br&gt;Volgnummer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-81">
+          <mxGeometry y="26" width="140" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-85" value="Relatiebeschrijving" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1060" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-86" value="Beschrijving,&amp;nbsp;&lt;br&gt;Relatietype" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-85">
+          <mxGeometry y="26" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-90" value="Rijksvoorziening" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1064" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-91" value="Externe verwijzing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-90">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-94" value="Semantische intermediair" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1030" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-95" value="Organisatie, &#xa;Beschrijving, &#xa;Interne verwijzing, &#xa;Contactpersoon, &#xa;Contactgegevens, &#xa;Externe verwijzing,&#xa;Laag binnen vijflaagsmodel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-94">
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-98" value="Standaard" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1110" width="170" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-99" value="ID,&amp;nbsp;&lt;br&gt;Lijst status,&amp;nbsp;&lt;br&gt;Versieaanduiding,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Toelichting,&amp;nbsp;&lt;br&gt;Werkingsgebied,&amp;nbsp;&lt;br&gt;Toepassingsgebied,&amp;nbsp;&lt;br&gt;Externe verwijzing,&amp;nbsp;&lt;br&gt;Documentatie,&amp;nbsp;&lt;br&gt;Publicatiedatum,&amp;nbsp;&lt;br&gt;Organisatie,&amp;nbsp;&lt;br&gt;Contactpersoon,&amp;nbsp;&lt;br&gt;Contactgegevens,&amp;nbsp;&lt;br&gt;Cluster,&amp;nbsp;&lt;br&gt;Laag binnen vijflaagsmodel,&amp;nbsp;&lt;br&gt;Status actualiteit,&amp;nbsp;&lt;br&gt;Status toelichting,&amp;nbsp;&lt;br&gt;nut" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-98">
+          <mxGeometry y="26" width="170" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-102" value="StandaardGebruik" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1140" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-103" value="Toelichting,&amp;nbsp;&lt;br&gt;Publicatiedatum,&amp;nbsp;&lt;br&gt;Toepasbaar,&amp;nbsp;&lt;br&gt;Compliancy,&amp;nbsp;&lt;br&gt;Vervangen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-102">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-106" value="Thema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1220" width="170" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-107" value="beschrijving, &lt;br&gt;relevantie, &lt;br&gt;plaatje, &lt;br&gt;alt-tekst, &lt;br&gt;Onderschrift, &lt;br&gt;Px, &lt;br&gt;direct aan de slag, &lt;br&gt;links direct aan de slag, &lt;br&gt;samen leren en zoeken, &lt;br&gt;links samen leren en zoeken, &lt;br&gt;meer informatie, &lt;br&gt;links meer informatie, &lt;br&gt;expertgroep, &lt;br&gt;expertgroep tekst, &lt;br&gt;contactpersoon, &lt;br&gt;contactgegevens" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-106">
+          <mxGeometry y="26" width="170" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-110" value="Themaprincipe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1340" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-111" value="ID, &#xa;Stelling,&#xa;Rationale, &#xa;Implicaties, &#xa;Voorbeelden, &#xa;RelatieToelichting, &#xa;Status actualiteit, &#xa;Status toelichting, &#xa;Afbeelding, &#xa;Alt-tekst" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-110">
+          <mxGeometry y="26" width="140" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-114" value="Uitwerking" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1440" width="140" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-115" value="Toelichting, &lt;br&gt;Implicaties, &lt;br&gt;Voorbeelden, &lt;br&gt;Status actualiteit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-114">
+          <mxGeometry y="26" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-118" value="Voorbeeld" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1510" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-119" value="ID, &lt;br&gt;Type voorbeeld, &lt;br&gt;Beschrijving, &lt;br&gt;Organisatie, &lt;br&gt;Externe verwijzing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-118">
+          <mxGeometry y="26" width="140" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-122" value="Voorziening" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1410" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="APrtU9W0fPYDer8AcuMq-123" value="ID, &lt;br&gt;Beschrijving, &lt;br&gt;Toelichting, &lt;br&gt;Cluster, &lt;br&gt;Architectuurlaag, &lt;br&gt;Voorbeelden, &lt;br&gt;Externe verwijzing, &lt;br&gt;Opdrachtgever, &lt;br&gt;Organisatie, &lt;br&gt;Contactpersoon, &lt;br&gt;Contactgegevens, &lt;br&gt;Laag binnen vijflaagsmodel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="APrtU9W0fPYDer8AcuMq-122">
+          <mxGeometry y="26" width="170" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
