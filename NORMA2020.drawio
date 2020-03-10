@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T15:39:59.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="KvBIyoWB2FwKlt0JvqcE" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T16:10:52.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ASay-IhGrbuQ8Mg9YZfW" version="12.8.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="3539" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -555,9 +555,11 @@
         <mxCell id="aszXzjKTE8ForRHxuUWM-51" value="ID,&#xa;Stelling,&#xa;Rationale,&#xa;Implicaties,&#xa;Voorbeelden,&#xa;Cluster,&#xa;Architectuurlaag,&#xa;Architectuurdomein,&#xa;Toepassingsgebied,&#xa;RelatieToelichting,&#xa;Status actualiteit,&#xa;Status toelichting,&#xa;Afbeelding,&#xa;Alt-tekst,&#xa;Prioriteit revisit" style="text;whiteSpace=wrap;spacing=7;treeFolding=0;absoluteArcSize=0;fillColor=#007CC7;fontColor=#FFFFFF;strokeWidth=2;rounded=0;shadow=1;strokeColor=#FFFFFF;" parent="aszXzjKTE8ForRHxuUWM-46" vertex="1">
           <mxGeometry y="26" width="150" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="aszXzjKTE8ForRHxuUWM-61" value="Basisprincipe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fillColor=#007CC7;fontColor=#FFFFFF;strokeWidth=2;rounded=0;shadow=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="-670" width="160" height="260" as="geometry" />
-        </mxCell>
+        <UserObject label="Basisprincipe" link="https://www.noraonline.nl/wiki/Basisprincipes" id="aszXzjKTE8ForRHxuUWM-61">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fillColor=#007CC7;fontColor=#FFFFFF;strokeWidth=2;rounded=0;shadow=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+            <mxGeometry x="-270" y="-670" width="160" height="260" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="aszXzjKTE8ForRHxuUWM-62" value="ID,&amp;nbsp;&lt;br&gt;Stelling,&amp;nbsp;&lt;br&gt;Beschrijving,&amp;nbsp;&lt;br&gt;Rationale,&lt;br&gt;Implicaties,&amp;nbsp;&lt;br&gt;Voorbeelden,&amp;nbsp;&lt;br&gt;Toepassingsgebied,&amp;nbsp;&lt;br&gt;Onderbouwing&lt;br&gt;&lt;br&gt;&amp;lt;&amp;lt;Relaties&amp;gt;&amp;gt;&lt;br&gt;Heeft bron: Bron&lt;br&gt;Is relevant binnen: Domein" style="text;strokeColor=#FFFFFF;fillColor=#007CC7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FFFFFF;html=1;strokeWidth=2;rounded=0;shadow=1;" parent="aszXzjKTE8ForRHxuUWM-61" vertex="1">
           <mxGeometry y="26" width="160" height="234" as="geometry" />
         </mxCell>
