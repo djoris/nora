@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-10T14:55:07.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="vyN37VciNv7LYO_kc0Wk" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T14:56:58.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="lZV70wEWiU_VUoG4TccV" version="12.8.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2591" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3539" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="APrtU9W0fPYDer8AcuMq-133" value="&lt;div&gt;Specificaties&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;fontSize=16;strokeColor=#36393d;fillColor=#FFFFFF;gradientColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="180" y="-790" width="480" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="APrtU9W0fPYDer8AcuMq-130" value="Principe" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;fillColor=#90CEE0;strokeColor=#36393d;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="APrtU9W0fPYDer8AcuMq-130" value="Principe" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;fillColor=#ffffff;strokeColor=#36393d;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-290" y="-720" width="430" height="330" as="geometry" />
         </mxCell>
         <mxCell id="4kYaTvi9r67Zi_UZiXDF-1" value="Begrip" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#431560;shadow=1;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
