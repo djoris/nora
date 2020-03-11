@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-11T14:23:11.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="9SkdQRRtFhpu8kQ5hJ88" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-11T14:25:51.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="DTJNO_BTbl1uxNlGkQbl" version="12.8.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2887" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,7 +541,7 @@
             <mxPoint x="3.289999999999999" y="47.57" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APrtU9W0fPYDer8AcuMq-282" value="" style="endArrow=open;endFill=1;endSize=12;html=1;edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;" parent="1" target="APrtU9W0fPYDer8AcuMq-98" edge="1" source="APrtU9W0fPYDer8AcuMq-122">
+        <mxCell id="APrtU9W0fPYDer8AcuMq-282" value="" style="endArrow=open;endFill=1;endSize=12;html=1;edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;" parent="1" source="APrtU9W0fPYDer8AcuMq-122" target="APrtU9W0fPYDer8AcuMq-98" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="960" y="-710" as="sourcePoint" />
             <mxPoint x="1020" y="-630" as="targetPoint" />
@@ -755,17 +755,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-24" value="" style="group;strokeWidth=2;strokeColor=#000000;fillColor=#90CEE0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-620" y="380" width="560" height="210" as="geometry" />
+          <mxGeometry x="-620" y="380" width="700" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="empiiGlO975wUdCotvXc-11" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;1&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Legenda&lt;/b&gt;&lt;/th&gt;&lt;td&gt;Omschrijving&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Generalisatie :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is een generalisatie van het &lt;br&gt;doel element.&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Realisatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement realiseert een deel of het geheel &lt;br&gt;van een doel element.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Associatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is geassocieerd met het doel &lt;br&gt;element. Relatie kan specifieker worden gemaakt&lt;br&gt;door er tekst aan toe te voegen.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;overflow=fill;labelBackgroundColor=#ffffff;fontSize=13;spacing=20;imageWidth=40;imageAspect=0;collapsible=0;absoluteArcSize=0;container=0;autosize=0;allowArrows=1;labelPadding=0;strokeOpacity=100;noLabel=0;resizeWidth=0;strokeWidth=2;" parent="empiiGlO975wUdCotvXc-24" vertex="1">
-          <mxGeometry width="560" height="210" as="geometry">
+        <mxCell id="empiiGlO975wUdCotvXc-11" value="&lt;table style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; width=&quot;100%&quot; cellpadding=&quot;2&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Relatie&lt;br&gt;&lt;/b&gt;&lt;/th&gt;&lt;td&gt;Omschrijving&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Generalisatie :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is een generalisatie van het &lt;br&gt;doel element.&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Realisatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement realiseert een deel of het geheel &lt;br&gt;van een doel element.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Associatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is geassocieerd met het doel &lt;br&gt;element. Relatie kan specifieker worden gemaakt&lt;br&gt;door er tekst aan toe te voegen.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;overflow=fill;labelBackgroundColor=#ffffff;fontSize=13;spacing=20;imageWidth=40;imageAspect=0;collapsible=0;absoluteArcSize=0;container=0;autosize=0;allowArrows=1;labelPadding=0;strokeOpacity=100;noLabel=0;resizeWidth=0;strokeWidth=2;" parent="empiiGlO975wUdCotvXc-24" vertex="1">
+          <mxGeometry width="700" height="210" as="geometry">
             <mxRectangle x="1120" y="-830" width="210" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-17" value="" style="endArrow=block;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" parent="empiiGlO975wUdCotvXc-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="100" y="70" as="sourcePoint" />
-            <mxPoint x="200" y="70" as="targetPoint" />
+            <mxPoint x="100" y="68.39" as="sourcePoint" />
+            <mxPoint x="225" y="68.39" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -776,8 +776,8 @@
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-19" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;elbow=vertical;strokeWidth=2;" parent="empiiGlO975wUdCotvXc-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="100" y="120" as="sourcePoint" />
-            <mxPoint x="200" y="120" as="targetPoint" />
+            <mxPoint x="100" y="111.5" as="sourcePoint" />
+            <mxPoint x="225" y="111.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-20" value="Realiseert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontStyle=1;fontSize=13;" parent="empiiGlO975wUdCotvXc-19" vertex="1" connectable="0">
@@ -787,8 +787,8 @@
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeWidth=2;" parent="empiiGlO975wUdCotvXc-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="100" y="180" as="sourcePoint" />
-            <mxPoint x="200" y="180" as="targetPoint" />
+            <mxPoint x="100" y="177.78" as="sourcePoint" />
+            <mxPoint x="225" y="177.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="empiiGlO975wUdCotvXc-23" value="&lt;b&gt;(tekst)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=13;" parent="empiiGlO975wUdCotvXc-22" vertex="1" connectable="0">
