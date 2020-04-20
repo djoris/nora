@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T11:49:08.200Z" agent="5.0 (Windows)" etag="LuXQe4lkcIjM7eWLYODa" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-20T14:10:36.334Z" agent="5.0 (Windows)" etag="HB9ETyeHxYzZRDGmCODy" version="12.9.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,9 +183,6 @@
         </mxCell>
         <mxCell id="yFaYhaL_I76bNWqtTdkX-25" value="wordt naar verwezen in aspecten?" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="320" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yFaYhaL_I76bNWqtTdkX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#514CD4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tqDPc9yleZxb04GqWjeg-5" target="tqDPc9yleZxb04GqWjeg-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
