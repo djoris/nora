@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T11:45:27.997Z" agent="5.0 (Windows)" etag="dc8s4iO1TGmHQCQTUZWl" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-20T11:47:27.856Z" agent="5.0 (Windows)" etag="tlpCjELxu6cUOljUiB3L" version="12.9.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="tqDPc9yleZxb04GqWjeg-12" value="bouwblokken kunnen doelen beinvloeden die onder meerdere zichtlijnen vallen" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="585" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tqDPc9yleZxb04GqWjeg-15" value="Themaprincipe (Principe)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="214" width="160" height="138" as="geometry">
+        <mxCell id="tqDPc9yleZxb04GqWjeg-15" value="Modeleerprincipe (Principe)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="630" y="214" width="160" height="106" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -83,9 +83,6 @@
         </mxCell>
         <mxCell id="tqDPc9yleZxb04GqWjeg-18" value="Onderbouwing" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="tqDPc9yleZxb04GqWjeg-15" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="tqDPc9yleZxb04GqWjeg-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="tqDPc9yleZxb04GqWjeg-15" vertex="1">
-          <mxGeometry y="104" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="tqDPc9yleZxb04GqWjeg-20" value="Bron" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="382" width="160" height="138" as="geometry">
@@ -103,14 +100,6 @@
         </mxCell>
         <mxCell id="tqDPc9yleZxb04GqWjeg-24" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="tqDPc9yleZxb04GqWjeg-20" vertex="1">
           <mxGeometry y="104" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="tqDPc9yleZxb04GqWjeg-28" value="(in alle pagina&#39;s)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="106" width="160" height="138" as="geometry">
-            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tqDPc9yleZxb04GqWjeg-29" value="Status actualiteit (goedgekeurd/concept..)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tqDPc9yleZxb04GqWjeg-28" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NKUO_NMi5fzmgAcy-49V-12" value="Aspect" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="320" width="160" height="138" as="geometry">
@@ -186,6 +175,20 @@
         </mxCell>
         <mxCell id="yFaYhaL_I76bNWqtTdkX-22" value="Beschrijving" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tqDPc9yleZxb04GqWjeg-3">
           <mxGeometry y="44" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqDPc9yleZxb04GqWjeg-28" value="(in alle pagina&#39;s)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="560" width="210" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqDPc9yleZxb04GqWjeg-29" value="Status actualiteit (goedgekeurd/concept..)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tqDPc9yleZxb04GqWjeg-28" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yFaYhaL_I76bNWqtTdkX-26" value="Onderdeel van thema" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tqDPc9yleZxb04GqWjeg-28">
+          <mxGeometry y="52" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yFaYhaL_I76bNWqtTdkX-25" value="wordt naar verwezen in aspecten?" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
