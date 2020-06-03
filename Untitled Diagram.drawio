@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T21:13:47.808Z" agent="5.0 (Windows)" version="13.1.14" etag="eaBCDbHHSXallQ01xlPu" type="github"><diagram id="HESIZcO0aCWENllJ_N2u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-03T21:14:14.962Z" agent="5.0 (Windows)" etag="lsdezt72oFFCZwWbPYiQ" version="13.1.14" type="github">
+  <diagram id="HESIZcO0aCWENllJ_N2u" name="Page-1">
+    <mxGraphModel dx="2112" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-1" value="" style="group;strokeWidth=2;strokeColor=#000000;fillColor=#90CEE0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-620" y="380" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;1&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Legenda&lt;/b&gt;&lt;/th&gt;&lt;td&gt;Omschrijving&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Generalisatie :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is een generalisatie van het &lt;br&gt;doel element.&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Realisatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement realiseert een deel of het geheel &lt;br&gt;van een doel element.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Associatie :&amp;nbsp;&lt;/td&gt;&lt;td&gt;Het bronelement is geassocieerd met het doel &lt;br&gt;element. Relatie kan specifieker worden gemaakt&lt;br&gt;door er tekst aan toe te voegen.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;overflow=fill;labelBackgroundColor=#ffffff;fontSize=13;spacing=20;imageWidth=40;imageAspect=0;collapsible=0;absoluteArcSize=0;container=0;autosize=0;allowArrows=1;labelPadding=0;strokeOpacity=100;noLabel=0;resizeWidth=0;strokeWidth=2;" vertex="1" parent="JOYoRcdUxw-qy2Abv7uT-1">
+          <mxGeometry width="560" height="210" as="geometry">
+            <mxRectangle x="1120" y="-830" width="210" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="JOYoRcdUxw-qy2Abv7uT-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="70" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-4" value="Generalisatie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="JOYoRcdUxw-qy2Abv7uT-3">
+          <mxGeometry x="0.3219" y="1" relative="1" as="geometry">
+            <mxPoint x="-27.96" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;elbow=vertical;strokeWidth=2;" edge="1" parent="JOYoRcdUxw-qy2Abv7uT-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-6" value="Realiseert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="JOYoRcdUxw-qy2Abv7uT-5">
+          <mxGeometry x="-0.0086" y="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13.000000000000004" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeWidth=2;" edge="1" parent="JOYoRcdUxw-qy2Abv7uT-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="200" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOYoRcdUxw-qy2Abv7uT-8" value="&lt;b&gt;(tekst)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=13;" vertex="1" connectable="0" parent="JOYoRcdUxw-qy2Abv7uT-7">
+          <mxGeometry x="-0.3" y="4" relative="1" as="geometry">
+            <mxPoint x="-15" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
